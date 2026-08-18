@@ -87,7 +87,7 @@ streamlit run app.py
 
 ## Live App
 
-> `<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE AFTER DEPLOYING>`
+https://breast-cancer-classifier-ml-assignment.streamlit.app/
 
 ## App Features
 
