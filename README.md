@@ -28,7 +28,7 @@ diagnosis.
 
 ## c. GitHub Repository Link
 
-> `<PASTE YOUR GITHUB REPO LINK HERE AFTER PUSHING>`
+https://github.com/Shanmugapriyashan/Breast-Cancer-ML-Assignment-Classification.git
 
 ## d. Models Used
 
