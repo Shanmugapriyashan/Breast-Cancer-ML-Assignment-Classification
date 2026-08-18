@@ -37,9 +37,9 @@ st.markdown(
 # ---------------------------------------------------------------------------
 MODEL_FILES = {
     "Logistic Regression": "model/logistic_regression.pkl",
-    "Decision Tree Classifier": "model/decision_tree.pkl",
-    "K-Nearest Neighbor Classifier": "model/knn.pkl",
-    "Naive Bayes Classifier": "model/naive_bayes.pkl",
+    "Decision Tree Classifier": "model/decision_tree_classifier.pkl",
+    "K-Nearest Neighbor Classifier": "model/k-nearest_neighbor_classifier.pkl",
+    "Naive Bayes Classifier": "model/naive_bayes_classifier.pkl",
     "Random Forest": "model/random_forest.pkl",
 }
 
